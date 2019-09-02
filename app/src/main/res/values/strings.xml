@@ -1,3 +1,36 @@
 <resources>
     <string name="app_name">HPMAlopedi</string>
+    <string name="logo">AloPedi Logo</string>
+    <string name="splash_text">Sfaturi medicale non-stop, pentru urgențe pediatrice.</string>
+    <string name="continua">Continuă</string>
+    <string name="validation_name">Cum vă numiți?</string>
+    <string name="validation_name_hint">Nume și Prenume</string>
+    <string name="phone_nr">Care este numărul dvs. de telefon?</string>
+    <string name="phone_nr_hint">Număr de telefon</string>
+    <string name="agree_terms_conditions">Am citit și sunt de acord cu termenii și condițiile.</string>
+    <string name="terms_conditions_link">Termeni și condiții</string>
+    <string name="confidential_text_view">Policita de confidențialitate</string>
+    <string name="gdpr_text">GDPR</string>
+    <string name="confirm_code_text_view">Un cod de confirmare a fost trimis către</string>
+    <string name="resend_code">Retrimite codul</string>
+    <string name="confirm_text">Confirmă</string>
+    <string name="call_now_home_button">Apelează acum</string>
+    <string name="home_text_view_agree">Prin inițierea apelului sunteți de acord cu termenii și condițiile</string>
+    <string name="add_child_name">Cum se numește copilul dvs.?</string>
+    <string name="add_child_age">Ce vârstă are acesta?</string>
+    <string name="address_quetsion">Ce adresă aveți?</string>
+    <string name="child_age_hint">Vârsta copilului</string>
+    <string name="adress_hint">Adresă</string>
+    <string name="add_child_cofirm_call">Trimite și apelează</string>
+    <string name="please_wait">Vă rugăm așteptați...</string>
+    <string name="waitting_text">Veți fi preluat de unul dintre operatorii noștri deîndata ce unul dintre aceștia va fi disponibil</string>
+    <string name="leave_call">Părăsește apelul</string>
+    <string name="end_call_text">Consultația s-a incheiat. În continuare, aveți posibilitatea de a vizualiza fișa medicală pe loc sau de a o trimite pe mail</string>
+    <string name="end_call_thanks">Vă mulțumim \npentru încredere</string>
+    <string name="see_medical_sheet">Vezi fișa medicală</string>
+    <string name="send_with_email">Trimite fișa pe email</string>
+    <string name="phone_nr_edit">Număr de telefon</string>
+    <string name="log_out">Log out</string>
+    <string name="detalii_copil">Detalii copil</string>
+    <string name="action">Acțiuni</string>
 </resources>
