@@ -1,14 +1,16 @@
-package com.hpmtutorial.hpmalopedi;
+package com.hpmtutorial.hpmalopedi.view;
 
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
 
-public class MainActivity extends AppCompatActivity {
+import com.hpmtutorial.hpmalopedi.R;
+
+public class SettingsActivity extends AppCompatActivity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_validation);
+        setContentView(R.layout.activity_settings);
     }
 }

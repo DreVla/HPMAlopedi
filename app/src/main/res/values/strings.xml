@@ -33,4 +33,6 @@
     <string name="log_out">Log out</string>
     <string name="detalii_copil">Detalii copil</string>
     <string name="action">Acțiuni</string>
+    <string name="add_new_child">Add new child</string>
+    <string name="save_new_child">Salvează</string>
 </resources>
