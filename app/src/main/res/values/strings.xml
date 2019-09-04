@@ -35,4 +35,10 @@
     <string name="action">Acțiuni</string>
     <string name="add_new_child">Add new child</string>
     <string name="save_new_child">Salvează</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="menu_home">Acasă</string>
+    <string name="menu_history">Istoric</string>
+    <string name="menu_settings">Setări</string>
 </resources>
