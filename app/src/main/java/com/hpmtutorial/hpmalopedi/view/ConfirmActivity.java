@@ -7,6 +7,7 @@ import android.os.Bundle;
 import android.view.View;
 
 import com.hpmtutorial.hpmalopedi.R;
+import com.hpmtutorial.hpmalopedi.view.fragments.ContainerActivity;
 
 public class ConfirmActivity extends AppCompatActivity {
 
@@ -17,7 +18,7 @@ public class ConfirmActivity extends AppCompatActivity {
     }
 
     public void startHome(View view) {
-        Intent validation = new Intent(getApplicationContext(), HomeActivity.class);
+        Intent validation = new Intent(getApplicationContext(), ContainerActivity.class);
         startActivity(validation);
         finish();
     }
