@@ -27,7 +27,7 @@
         app:cornerRadius="24dp"
         app:iconGravity="textStart"
         android:layout_centerInParent="true"
-
+        android:backgroundTint="@color/colorAccent"
         app:icon="@drawable/ic_call_24dp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"

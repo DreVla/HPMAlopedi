@@ -3,15 +3,15 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:orientation="vertical"
     android:layout_width="match_parent"
-    android:layout_height="wrap_content"
-    android:background="@color/lighterGray">
+    android:layout_height="wrap_content">
 
     <TextView
         android:id="@+id/item_family_name"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:padding="10dp"
-        android:textSize="18sp"
+        android:padding="16dp"
+        android:textSize="20sp"
+        android:textColor="@android:color/black"
         tools:text="Familie 1"/>
 
 </LinearLayout>

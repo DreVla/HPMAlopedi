@@ -12,7 +12,9 @@
         <activity android:name=".view.SettingsActivity"/>
         <activity android:name=".view.HistoryActivity" />
         <activity android:name=".view.AddNewChildActivity" />
-        <activity android:name=".view.HomeActivity"/>
+        <activity android:name=".view.HomeActivity">
+
+        </activity>
         <activity android:name=".view.ConfirmActivity" />
         <activity android:name=".view.ValidationActivity" />
         <activity android:name=".view.SplashActivity" >
