@@ -55,8 +55,10 @@ public class HomeFragment extends Fragment {
         parentRecyclerView.setAdapter(parentRecyclerViewAdapter);
 
 //        Familii
-        createFamily();
-        loadAdapterItems();
+        if(adapterItems.size()==0) {
+            createFamily();
+            loadAdapterItems();
+        }
         return view;
     }
 
@@ -78,10 +80,10 @@ public class HomeFragment extends Fragment {
         newFamily.setSuperUser(newUser);
         Child childOne = new Child();
         childOne.setId("1");
-        childOne.setName("Vlad Jr");
+        childOne.setName("Copil1");
         Child childTwo = new Child();
         childTwo.setId("2");
-        childTwo.setName("Vlad Jr 2");
+        childTwo.setName("Copil2");
         List<Child> children = new ArrayList<>();
         children.add(childOne);
         children.add(childTwo);

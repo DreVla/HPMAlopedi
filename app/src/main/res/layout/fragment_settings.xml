@@ -54,7 +54,7 @@
             android:id="@+id/validation_terms_conditions_text_view"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:layout_marginTop="248dp"
+            android:layout_marginTop="24dp"
             android:clickable="true"
             android:focusable="true"
             android:text="@string/terms_conditions_link"
